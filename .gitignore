@@ -1,0 +1,53 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.m~
+
+*.mat
+trainedGestureModel.mat
+trainedSpeechModel.mat
+
+# Dataset folders
+NumbersInSignLanguage_16500/
+Speech_Numbers_17000/
+AudioDataset/
+SpeechImageData/
+TrainingData/
+ValidationData/
+
+# Individual digit folders (created by data acquisition scripts)
+zero/
+one/
+two/
+three/
+four/
+five/
+six/
+seven/
+eight/
+nine/
+
+# Image outputs
+*.bmp
+*.png
+*.jpg
+
+# Audio files
+*.wav
+
+# MATLAB cache and project files
+*.slxc
+slprj/
+*.mex*
+
+# Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
