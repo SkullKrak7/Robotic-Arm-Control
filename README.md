@@ -228,7 +228,6 @@ Pre-trained models are not included due to size limits. Run training scripts to 
 
 ## Acknowledgements
 
-- University of Sheffield GPU cluster access
 - Dr Payam Soulatiantork for supervision
 - Public datasets: [ASL Sign Language](https://www.kaggle.com/datasets/muhammadkhalid/sign-language-for-numbers), [Free Spoken Digit Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset)
 - Tools: MATLAB, Arduino IDE, draw.io, ChatGPT
