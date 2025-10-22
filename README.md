@@ -1,4 +1,4 @@
-# Deep Learning–Based Gesture and Speech Control for Robotic Hand
+# Robotic Arm Control Using Gesture and Speech Recognition with Deep Learning
 
 **MSc Robotics Dissertation Project | University of Sheffield | 2024**
 
